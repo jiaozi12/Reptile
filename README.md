@@ -14,7 +14,7 @@ image文件夹中存放应用程序启动所需要加载的图片文件，为保
 1.前端界面使用python3的tkinter图形库编写
 
 2.使用Pyinstaller将python代码打包成exe文件，若无Pyinstaller环境，可使用pip命令进行安装
-···py
+···c
 pip install pyinstaller
 ···
 3.安装完成后，在命令行执行命令进行打包
