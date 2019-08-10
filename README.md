@@ -27,5 +27,7 @@ pyinstaller -F -w 百度爬虫(Windows软件).py
 
 命令中-F的意思是：使用-F指令可以把应用打包成一个独立的exe文件，否则是一个带各种dll和依赖文件的文件夹
 4.完成后在新生成的dist文件夹中可找到百度爬虫(Windows软件).exe
+
 致谢
+
 [爬虫部分的代码参考的一篇CSDN博客](https://blog.csdn.net/qq_40774175/article/details/81273198)
